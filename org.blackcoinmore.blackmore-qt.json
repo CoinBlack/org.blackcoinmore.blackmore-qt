@@ -53,16 +53,17 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://raw.githubusercontent.com/coinblack/blackmore-flatpak/main/blackmore-qt.desktop",
+                    "url": "https://raw.githubusercontent.com/coinblack/blackmore-flatpak/13.2.1/blackmore-qt.desktop",
                     "sha256": "21d6c3498f9b2f34907751a0d6e5a3475d38c843afae24263c930c2f37db551c"
                 },
                 {
                     "type": "file",
-                    "path": "org.blackcoinmore.blackmore-qt.metainfo.xml"
+                    "path": "org.blackcoinmore.blackmore-qt.metainfo.xml",
+                    "sha256": "552614eabb634467aeda4faf5665064659c9a7a17cbda570574a17deb6144a24"
                 },
                 {
                     "type": "file",
-                    "url": "https://raw.githubusercontent.com/coinblack/blackmore-flatpak/main/blackcoin.svg",
+                    "url": "https://raw.githubusercontent.com/coinblack/blackmore-flatpak/13.2.1/blackcoin.svg",
                     "sha256": "a576f9506aa262115a0b1d0c50c0622560c82926bd24f9c3ecb14a6fc3206819"
                 },
                 {
